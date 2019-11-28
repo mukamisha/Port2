@@ -14,6 +14,7 @@ body {
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
+  /* margin-bottom: -90px; */
 }
 
 .sidenav a {
@@ -70,7 +71,7 @@ body{
   
   ul li:before {
     content: '✓';
-    color:#6495ED;
+    color:green;
   }
 
   
